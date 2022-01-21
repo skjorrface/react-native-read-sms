@@ -1,5 +1,5 @@
 {
-  "name": "react-native-read-sms",
+  "name": "@albeds/react-native-read-sms",
   "title": "React Native Read Sms",
   "version": "1.0.6",
   "description": "This plugin is used to read new recived sms.",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KetanDhopeshwarkar/react-native-read-sms",
+    "url": "git+https://github.com/KetanDhopeshwarkar/react-native-read-sms.git",
     "baseUrl": "https://github.com/KetanDhopeshwarkar/react-native-read-sms"
   },
   "keywords": [
